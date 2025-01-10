@@ -6,7 +6,7 @@
 ## About Me 🚀
 [![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://giphy.com/gifs/coding-web-development-qgQUggAC3Pfv687qPC)
 
-I'm a *web developer* with a passion for creating *responsive, **user-friendly, and **visually stunning* websites.I'm a recent graduate with a degree in [Btech-Engineering ] and a passion for web development. I specialize in building responsive and user-friendly websites using HTML, CSS, JavaScript. During my academic projects, I developed a strong foundation in front-end development and problem-solving. I'm eager to contribute to innovative projects and grow as a web developer. Let's connect and create something amazing together!
+I'm a web developer with a passion for creating  responsive, user-friendly, and  visually stunning  websites.I have completed my Engineering in Computer Science Engineering with a specialization in Network and Security from MIT ADT UNIVERSITY PUNE. Currently,I am engaged in a web development internship at Unified Mentor. As a  Web Developer, my passion lies in creating websites, developing new applications, and working on diverse projects. I specialize in building responsive and user-friendly websites using HTML, CSS, JavaScript. During my academic projects, I developed a strong foundation in front-end development and problem-solving. I'm eager to contribute to innovative projects and grow as a web developer. 
 ---
 
 ## 🛠 Tech Stack
