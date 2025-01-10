@@ -1,13 +1,12 @@
 # Hi, I'm [Amol Mane] 👋
-#### Web Developer | Passionate about Building Beautiful and Functional Web Experiences
+####  Web Developer Intern @Unified mentor | Btech Graduate @MIT ADT UNIVERSITY | HTML | CSS | JAVASCRIPT | JAVA | Building Modern Websites That Build Your Success.
 
 ---
 
 ## About Me 🚀
 [![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://giphy.com/gifs/coding-web-development-qgQUggAC3Pfv687qPC)
 
-I'm a *web developer* with a passion for creating *responsive, **user-friendly, and **visually stunning* websites. I specialize in *front-end development* and have experience with *HTML, CSS, JavaScript, React, and Node.js*. I'm always exploring new technologies and frameworks to enhance my skills and deliver high-quality projects.
-
+I'm a *web developer* with a passion for creating *responsive, **user-friendly, and **visually stunning* websites.I'm a recent graduate with a degree in [Btech-Engineering ] and a passion for web development. I specialize in building responsive and user-friendly websites using HTML, CSS, JavaScript. During my academic projects, I developed a strong foundation in front-end development and problem-solving. I'm eager to contribute to innovative projects and grow as a web developer. Let's connect and create something amazing together!
 ---
 
 ## 🛠 Tech Stack
